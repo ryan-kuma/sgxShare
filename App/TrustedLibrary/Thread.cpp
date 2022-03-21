@@ -34,7 +34,7 @@
 #include <stdio.h>
 using namespace std;
 
-#include "../App.h"
+#include "../server.h"
 #include "Enclave_u.h"
 
 static size_t counter = 0;

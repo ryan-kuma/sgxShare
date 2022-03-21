@@ -30,7 +30,7 @@
  */
 
 
-#include "../App.h"
+#include "../server.h"
 #include "Enclave_u.h"
 
 /* edger8r_array_attributes:

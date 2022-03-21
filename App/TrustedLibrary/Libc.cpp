@@ -30,7 +30,7 @@
  */
 
 
-#include "../App.h"
+#include "../server.h"
 #include "Enclave_u.h"
 
 /* ecall_libc_functions:

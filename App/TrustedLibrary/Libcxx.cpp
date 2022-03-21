@@ -31,7 +31,7 @@
 
 #include <stdio.h>
 
-#include "../App.h"
+#include "../server.h"
 #include "Enclave_u.h"
 
 /* ecall_libcxx_functions:
